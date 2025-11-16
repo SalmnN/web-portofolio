@@ -4,7 +4,7 @@ export default function Education() {
   return (
     <section id="education" className="max-w-5xl mx-auto px-6 py-16">
       <h3 className="text-2xl font-bold text-[#F87B1B] mb-4">Education</h3>
-      <div className="bg-[#10182b] p-6 rounded-lg border border-gray-800">
+      <div className="bg-[#10182b] p-6 rounded-lg border border-gray-800 hover:border-[#F87B1B] transition">
         <h4 className="font-semibold text-white">
           Universitas Komputer Indonesia
         </h4>

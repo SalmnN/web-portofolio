@@ -6,7 +6,7 @@ export default function Header() {
       <div className="max-w-6xl mx-auto flex items-center justify-between px-6 py-4">
         <h1 className="text-2xl font-bold text-[#F87B1B]">Salman Alfarisi Nasution</h1>
         <nav className="space-x-6 text-gray-300">
-          {["About", "Experience", "Education", "Skills"].map(
+          {["About", "Experience", "Education", "Organization", "Skills"].map(
             (item) => (
               <a
                 key={item}

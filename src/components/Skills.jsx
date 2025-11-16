@@ -8,13 +8,13 @@ export default function Skills() {
       </h3>
       <ul className="grid md:grid-cols-2 gap-4 text-gray-300">
         <li className="bg-[#10182b] p-4 rounded-lg border border-gray-800">
-          Web Programming (React, JavaScript)
+          Web Programming (PHP, JavaScript)
         </li>
         <li className="bg-[#10182b] p-4 rounded-lg border border-gray-800">
-          Data Processing (Python, Pandas)
+          Data Analyst
         </li>
         <li className="bg-[#10182b] p-4 rounded-lg border border-gray-800">
-          System Analysis & Design
+          Businees System Analysis
         </li>
         <li className="bg-[#10182b] p-4 rounded-lg border border-gray-800">
           BNSP Certified Junior Web Programmer
